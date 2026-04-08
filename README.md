@@ -17,6 +17,12 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-%23C1E81C?style=for-the-badge&logo=swagger&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E9433F?style=for-the-badge&logo=ubuntu&logoColor=white)
+![SignalR](https://img.shields.io/badge/SignalR-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![CQRS](https://img.shields.io/badge/CQRS-Pattern-blueviolet?style=for-the-badge)
 
 ### 📚 Frameworks & Libraries
 
@@ -33,6 +39,17 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
+### 🏗️ Software Design & Architecture
+
+![SOLID](https://img.shields.io/badge/SOLID-Principles-orange?style=for-the-badge)
+![Clean Architecture](https://img.shields.io/badge/Clean-Architecture-blue?style=for-the-badge)
+
+**Design Patterns I Apply:**
+- **Architectural:** Repository & Unit of Work, CQRS.
+- **Creational:** Singleton, Factory, Builder.
+- **Structural:** Adapter, Decorator.
+- **Behavioral:** Strategy, Observer, Mediator.
+
 ### 🛠️ Tools & Design
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -44,7 +61,11 @@
 
 ### 📈 GitHub Stats
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=khmo112233789&show_icons=true&theme=tokyonight" alt="Khaled's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khmo112233789
+&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=khmo112233789
+&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
 </p>
 
 ---
