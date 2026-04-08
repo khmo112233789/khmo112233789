@@ -2,11 +2,10 @@
 
 ### 👨‍💻 About Me
 - 🎓 I'm currently a 3rd-year Computer Science student.
-- 💼 I'm passionate about backend development using **PHP**, **.NET (MVC)**, and **MySQL**.
+- 💼 I'm passionate about backend development using **PHP**, **Java**, **.NET (MVC)**, and **SQL**.
 - 💡 I have strong knowledge of software design and architecture patterns like **MVC** and **layered architecture**.
 - 🧠 I'm a problem solver who enjoys building scalable and maintainable systems.
 - 🌱 I'm currently learning more about API development, system design, and microservices.
-- 🎨 I also have a good sense of UI/UX and enjoy designing clean and modern interfaces.
 - 💬 Feel free to reach out to me for collaboration, freelancing, or any interesting discussion.
 
 - 📧 **Email:** [your-email@gmail.com](mailto:khmo8192920@gmail.com)
